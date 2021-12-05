@@ -1,2 +1,2 @@
 # Udacity-DSND-Project-1
-Udacity Data Scientist Nanodegree Project 1 (Stack Overflow Developer Survey 2020 - Mental Health)
+Udacity Data Scientist Nanodegree Project 1 (Stack Overflow Developer Survey 2020 - Menthal Health)
